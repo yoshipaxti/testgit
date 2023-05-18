@@ -6,3 +6,9 @@ git status
 git add <filename>
 #to commit a file
 git commit -m "message"
+
+#to add a remote repo
+git remote add origin https://github.com/gavena/testgit.git
+to push to repo
+
+git push -u origin master
